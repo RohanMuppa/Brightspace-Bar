@@ -73,7 +73,7 @@ tagged state is
 
 ```sh
 git clone https://github.com/DavidChen-006/Brightspace-Bar.git
-cd BrightspaceBar
+cd Brightspace-Bar
 make setup    # checks prerequisites, installs the daemon's dependencies and the agent skill
 make start    # THE one command — see below
 ```
